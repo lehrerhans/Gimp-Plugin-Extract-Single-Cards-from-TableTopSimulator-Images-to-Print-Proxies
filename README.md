@@ -3,4 +3,6 @@ Most TableTop Simulator Mods have Images with many cards of the game on it. if y
 The file has to be put in a folder of the same name as the file (witout-py-extension). this folder has to be in the plugin-folder of Gimp3.
 
 Keep in mind, that a syntax-error in the plugin can force gimp not showing up the plugin. for example a missing bracket can force this.
-when using the Development version of Gimp , you have a console-window, where 
+when using the Development version of Gimp , you have a console-window where you can see possible problems or errors.
+
+
