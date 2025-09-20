@@ -29,6 +29,9 @@ You find the single cards as pngs in the output-directory is C:\users\your_usern
 <b>2.Putting several cards on one A4-Sheet for printing out the Porxies   </b><br>
 use the plugin "cards_16minis_to_a4".py
 The output format is *.png <br>
+You start the plugin under Filter/Tutorial/<br>
+You find the single cards as pngs in the output-directory is C:\users\your_username\ <br>
+
 <br>
 <br>
 <b>Remarks:</b><br>
