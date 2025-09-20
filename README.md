@@ -1,4 +1,4 @@
-# Gimp Plugin for Extracting Single-Cards from TableTopSimulator Images
+# Gimp3 Plugin for Extracting Single-Cards from TableTopSimulator Images
 Most TableTop Simulator Mods have Images with many cards of the game on it. <br>
 if you want to print these cards as proxies , for examples for games out of print or not yet in print, <br>
 it is convenient to have a plugin that extract each card from the Image.<br>
