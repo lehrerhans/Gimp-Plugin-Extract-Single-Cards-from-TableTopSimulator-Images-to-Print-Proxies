@@ -5,6 +5,9 @@ The file has to be put in a folder of the same name as the file (witout-py-exten
 Keep in mind, that a syntax-error in the plugin can force gimp not showing up the plugin. for example a missing bracket can force this.
 when using the Development version of Gimp , you have a console-window where you can see possible problems or errors.
 
-the oupput-directory is C:\Users\your_username\AppData\Roaming\GIMP\3.1\plug-ins\tts_cards_isolate
+the oupput-directory is C:\users\your_username\
+The outout format is *.png
+
+
 
 
