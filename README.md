@@ -14,9 +14,7 @@ karten_hoehe = 791      #cards height in pixel<br>
 karten_breite = 520     # cards width in pixel<br>
 ....<br>
 .....<br>       
-#fuer 44mmx67mm bei 300dpi (gilded realms minikarten)<br>
-#karten_hoehe = 791<br>
-#karten_breite = 520<br>
+#for 44mmx67mm at 300dpi (gilded realms minikarten)<br>
 <br>
 <br>
 
