@@ -29,17 +29,13 @@ You find the single cards as pngs in the output-directory is C:\users\your_usern
 
 
 <b>2.Putting several cards on one A4-Sheet for printing out the Porxies   </b><br>
-use the plugin "cards_16minis_to_a4".py<br>
+use the plugin "cards_16minis_to_a4".py
+The output format is *.png <br>
 <br>
 <br>
 <b>Remarks:</b><br>
 Keep in mind, that a syntax-error in the plugin can force gimp not showing up the plugin. for example a missing bracket can force this.<br>
 when using the Development version of Gimp , you have a console-window where you can see possible problems or errors.<br>
-
-
-
-Actual tested with Gimp3.1.4 <br>
-The output format is *.png 
 
 Actual tested with Gimp3.1.4 <br>
 Should work with Current Stable release of Gimp3
