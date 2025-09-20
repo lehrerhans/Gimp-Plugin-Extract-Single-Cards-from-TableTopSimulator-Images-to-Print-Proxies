@@ -9,15 +9,13 @@ it is convenient to have a plugin that extract each card from the Image.<br>
 The python-plugin "tts-cards-isolate.py" file has to be put in a folder of the same name as the file (without-py-extension). this folder has to be in the plugin-folder of Gimp3.<br>
 You load an image that has several cards in it. <br>
 Then you change in the pythonfile "TTS-cards_isolate.py" the number of cards and the size the single cards should have.<br>
-<i>
+<br> <i>
 anzahl_bilder_in_x = 3     #how much cards are lying on the tts-image in x-direction? <br>
 anzahl_bilder_in_y = 3      #how much cards are lying on the tts-image in y-direction?<br>
 ....<br>
-.....<br>
 karten_hoehe = 791      #cards height in pixel<br>
 karten_breite = 520     # cards width in pixel<br>
-....<br>
-.....<br>       
+....<br>     
 #for 44mmx67mm at 300dpi (gilded realms minikarten)</i><br>
 <br>
 <br>
