@@ -8,7 +8,7 @@ when using the Development version of Gimp , you have a console-window where you
 the output-directory is C:\users\your_username\
 The outout format is *.png
 
-Actual tested with Gimp3.1.4
+Actual tested with Gimp3.1.4 <br>
 Should work with Current Stable release of Gimp3
 
 
