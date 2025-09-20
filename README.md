@@ -4,8 +4,8 @@ if you want to print these cards as proxies , for examples for games out of prin
 it is convenient to have a plugin that extract each card from the Image.<br>
 
 
-<bold>
-1) Isolate Cards </bold> <br>
+<b>
+1) Isolate Cards </b> <br>
 The python-plugin "tts-cards-isolate.py" file has to be put in a folder of the same name as the file (without-py-extension). this folder has to be in the plugin-folder of Gimp3.<br>
 You load an image that has several cards in it. <br>
 Then you change in the pythonfile "TTS-cards_isolate.py" the number of cards and the size the single cards should have.<br>
