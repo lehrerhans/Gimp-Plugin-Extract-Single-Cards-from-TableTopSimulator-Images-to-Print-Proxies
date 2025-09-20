@@ -28,11 +28,11 @@ You start the plugin under Filter/Tutorial/<br>
 You find the single cards as pngs in the output-directory is C:\users\your_username\ <br>
 
 
-<b>2. using the plugin cards_16minis_to_a4.py </b><br>
-with this plugin you can put 16mini cards onto an a4-sheet <br>
+<b>2.Putting several cards on one A4-Sheet for printing out the Porxies   </b><br>
+use the plugin "cards_16minis_to_a4".py<br>
 <br>
 <br>
-Remarks:<br>
+<b>Remarks:</b><br>
 Keep in mind, that a syntax-error in the plugin can force gimp not showing up the plugin. for example a missing bracket can force this.<br>
 when using the Development version of Gimp , you have a console-window where you can see possible problems or errors.<br>
 
