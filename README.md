@@ -9,6 +9,8 @@ the output-directory is C:\users\your_username\
 The outout format is *.png
 
 Actual tested with Gimp3.1.4
+Should work with Current Stable release of Gimp3
+
 
 
 
