@@ -28,7 +28,7 @@ You start the plugin under Filter/Tutorial/<br>
 You find the single cards as pngs in the output-directory is C:\users\your_username\ <br>
 
 
-2. using the plugin cards_toa4.py <br>
+<b>2. using the plugin cards_toa4.py </b><br>
 with this plugin you can put 16mini cards onto an a4-sheet <br>
 <br>
 <br>
